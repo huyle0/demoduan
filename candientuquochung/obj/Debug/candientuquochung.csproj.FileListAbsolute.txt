@@ -1,0 +1,53 @@
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\bin\Debug\candientuquochung.exe.config
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\bin\Debug\candientuquochung.exe
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\bin\Debug\candientuquochung.pdb
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.frmmain.resources
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.Properties.Resources.resources
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.exe
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.pdb
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.frmdangnhap.resources
+C:\Users\Administrator\source\repos\candientuquochung\candientuquochung\obj\Debug\candientuquochung.frmchuongtrinh.resources
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\bin\Debug\candientuquochung.exe.config
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\bin\Debug\candientuquochung.exe
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\bin\Debug\candientuquochung.pdb
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.csprojAssemblyReference.cache
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.Form1.resources
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.frmdangnhap.resources
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.frmmain.resources
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.Properties.Resources.resources
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.csproj.GenerateResource.cache
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.exe
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.pdb
+C:\Users\thang\Desktop\candientuquochung-master\candientuquochung\obj\Debug\candientuquochung.Form2.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\bin\Debug\candientuquochung.exe.config
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\bin\Debug\candientuquochung.exe
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\bin\Debug\candientuquochung.pdb
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.Form1.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.frmBaocao.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.form2.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.frmdangnhap.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.frmmain.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.exe
+C:\Users\Administrator\Desktop\New folder\canquochung\candientuquochung\obj\Debug\candientuquochung.pdb
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\bin\Debug\candientuquochung.exe.config
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\bin\Debug\candientuquochung.exe
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\bin\Debug\candientuquochung.pdb
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.Form1.resources
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.frmBaocao.resources
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.form2.resources
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.frmdangnhap.resources
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.frmmain.resources
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.exe
+C:\Users\Administrator\Desktop\Thư mục mới\canquochung\candientuquochung\obj\Debug\candientuquochung.pdb
